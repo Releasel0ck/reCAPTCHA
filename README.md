@@ -1,5 +1,6 @@
 # reCAPTCHA
 A burpsuite plugin 
+一款burpsuite验证码识别插件
 
 ![main](https://github.com/Releasel0ck/reCAPTCHA/blob/master/show.jpg "main")
 
